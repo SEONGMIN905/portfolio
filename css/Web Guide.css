@@ -1,0 +1,20 @@
+*{margin: 0; padding: 0;}
+
+
+.WebGuide{
+    width: 1320px;
+    height: 800px;
+
+    margin: 0 auto;
+}
+
+
+.WebGuide img{
+
+    width: 1320px;
+    height: 900px;
+
+    border: 1px solid #ccc;
+
+    margin-bottom: 50px;
+}

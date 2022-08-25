@@ -1,0 +1,18 @@
+*{margin: 0; padding: 0;}
+
+
+.BIBX{
+    width: 1320px;
+    height: 800px;
+
+    margin: 0 auto;
+}
+
+
+.BIBX img{
+
+    width: 1320px;
+    height: 900px;
+
+    margin-bottom: 50px;
+}
